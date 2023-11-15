@@ -1,5 +1,5 @@
-# Spotify-Bot
-AutoPlay: 
+# Autoplay-Spotify-Bot
+libraries:
 - Python
 - Selenium
 - Pyautogui 
