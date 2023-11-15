@@ -1,0 +1,5 @@
+{$Upcoming}
+
+- Change the script so that pyautogui is the predominant bot in the script 
+- Use Selenium to auto load the spotify url
+- Use AutoGui for spotify interactions 

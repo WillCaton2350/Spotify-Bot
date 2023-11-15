@@ -1,0 +1,5 @@
+url = 'https://open.spotify.com/search'
+geckoDriverPath = '/Users/administrator/Desktop/Projects/SeleniumProjects/SpotifySelenium/Bot/Driver/geckodriver'
+searchBar = '/html/body/div[4]/div/div[2]/div[3]/header/div[3]/div/div/form/input'
+artist_name = 'Usher'
+username_xpath = '//*[@id="login-username"]'
