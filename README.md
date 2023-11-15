@@ -1,2 +1,5 @@
 # Spotify-Bot
-Python, Selenium and Pyautogui autoplay spotify bot (WIP)
+AutoPlay: 
+- Python
+- Selenium
+- Pyautogui 
